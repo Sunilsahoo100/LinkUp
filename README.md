@@ -28,12 +28,9 @@ LinkUp welcomes contributions from the community. If you'd like to contribute, p
 
 If you encounter any issues, please report it on the [GitHub issue tracker](https://github.com/SVIT-Solutions/linkup/issues).
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any inquiries or suggestions, feel free to contact us at [dmitrylukienko.business@gmail.com](mailto:dmitrylukienko.business@gmail.com).
+For any inquiries or suggestions, feel free to contact us at [sunilksahoo100@gmail.com](mailto:sunilksahoo100@gmail.com).
 
 Thank you for using LinkUp!
